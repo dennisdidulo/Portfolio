@@ -3,9 +3,9 @@ Cybersecurity-certified professional with 25+ years of software engineering expe
 <br>
 <table>
   <tr>
-    Projects include:
+    <th align="left">Projects include:</th>
   </tr>
   <tr>
-    <a href="Bioinformatics.md" target="_blank">Bioinformatics Online Tutorial</a>
+    <td><a href="Bioinformatics.md" target="_blank">Bioinformatics Online Tutorial</a></td>
   </tr>
 </table>
